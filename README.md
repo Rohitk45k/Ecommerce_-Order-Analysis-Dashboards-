@@ -1,7 +1,7 @@
 # Ecommerce_-Order-Analysis-Dashboards
 **Project Preview**
 
-This project involves the analysis of an E-commerce order dataset using tools like Excel (update as per what you used). The goal is to extract meaningful business insights such as top-selling products, sales trends, profit margins, and customer behavior to support data-driven decision making.
+This project involves the analysis of an E-commerce order dataset using tools like Excel . The goal is to extract meaningful business insights such as top-selling products, sales trends, profit margins, and customer behavior to support data-driven decision making.
 **Key Features**
  Data cleaning and preprocessing
  Sales performance analysis (monthly/quarterly/yearly)
